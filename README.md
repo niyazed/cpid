@@ -1,4 +1,13 @@
-# Cow Price with Image
+
+<h1 align ="center">Cow Price with Image</h1>
+
+<p align="center">
+    <a>
+        <img alt='cow_price' src='https://cdn2.iconfinder.com/data/icons/agriculture-business-2/512/xxx031-512.png' />
+    </a>
+    <br>
+</p>
+<br>
 
 ## Data Description
 
@@ -6,8 +15,8 @@ All price of this cows enlisted according to 2019 Qurban.
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|No. of samples  |`1400+`                        |'Isn't this fun?'            |
+|Image Size      |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
