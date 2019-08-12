@@ -22,7 +22,9 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |     +--- image2.jpg
 |
 +--- [subdir2(Price)]
-|
-+--- image1.jpg
-+--- image2.jpg
+|     |
+|     +--- image1.jpg
+|     +--- image2.jpg
+...
+...
 ```
