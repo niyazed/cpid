@@ -1,8 +1,8 @@
 # Cow Price with Image
 
-## SmartyPants
+## Data Description
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+All price of this cows enlisted according to 2019 Qurban.
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
