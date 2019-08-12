@@ -14,7 +14,7 @@
 All price of this cows enlisted according to 2019 Qurban.
 - Download dataset - [Google Drive Link](https://drive.google.com/file/d/1kcwx93AlvoMcCmBpnPptIETRYo_qg8cI/view?usp=sharing)
 
-|                |Images                         | Price Range(BDT)            |
+|                |Images                         | Price Range (BDT)           |
 |----------------|-------------------------------|-----------------------------|
 |No. of Samples  |`1400`                         |                             |
 |Type            |`RGB`                          |       37k - 800k            |
