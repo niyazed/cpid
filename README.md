@@ -18,7 +18,7 @@ All price of this cows enlisted according to 2019 Qurban.
 |No. of Samples  |`1400`                         |                             |
 |Type            |`RGB`                          |       37k - 800k            |
 |Size            |`W - 531px` `H - 354px`        |                             |
-
+> NOTE - A few images are in different size so better if you resize all the images first.
 
 ## Folder/File Structure
 ```
