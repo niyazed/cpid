@@ -16,8 +16,8 @@ All price of this cows enlisted according to 2019 Qurban.
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
 |No. of samples  |`1400+`                        |'Isn't this fun?'            |
-|Image Size      |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Image Size      |`531x354x3`                    |"Isn't this fun?"            |
+|Price Range     |`37k - 800k`                   |-- is en-dash, --- is em-dash|
 
 
 
