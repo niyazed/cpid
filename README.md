@@ -39,5 +39,5 @@ All price of this cows enlisted according to 2019 Qurban.
 ...
 ```
 <p align="center">
-    Feel free to contribute :hearts: | Niyaz B. Hashem 
+    Feel free to contribute :hearts:   -  Niyaz B. Hashem 
 </p>
