@@ -1,5 +1,5 @@
 
-<h1 align ="center">Cow Price with Image</h1>
+<h1 align ="center">Cow Price Image Dataset</h1>
 
 <p align="center">
     <a>
