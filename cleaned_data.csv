@@ -1,0 +1,467 @@
+cattle-id,price,age,color,breed,weight
+BLF1118,91000,2.5 years,Red,Red Chittagong,217 kg
+BLFS232,186000,2.5 years,Non Red,Holstein Friesian Cross,469 kg
+BLF960,118000,2.5 years,Red,Local,282 kg
+BLF1091,118000,2.5 years,Red,Local,283 kg
+BLF1324,125000,2.5 years,Red,Red Chittagong,298 kg
+BLF1203,92000,2.5 years,Non Red,Local,226 kg
+BLF1019,105000,2.5 years,Red,Sindhi,255 kg
+BLF1145,121000,2.5 years,Red,Local,293 kg
+BLF866,120000,2.5 years,Red,Local,290 kg
+BLF1261,109000,2.5 years,Red,Red Chittagong,260 kg
+BLFS235,209000,3 years,Non Red,Holstein Friesian Cross,526 kg
+BLF948,131000,2.5 years,Red,Local,315 kg
+BLF1048,121000,2.5 years,Red,Sahiwal,292 kg
+BLF851,164000,3 years,Red,Sahiwal,395 kg
+BLF1234,111000,2.5 years,Red,Local,270 kg
+BLF1042,104000,3 years,Non Red,Local,255 kg
+BLF1093,141000,3 years,Red,Local,345 kg
+BLF979,92000,2.5 years,Non Red,Local,227 kg
+BLF1015,107000,2.5 years,Non Red,Local,264 kg
+BLF1262,89000,2.5 years,Red,Sindhi,215 kg
+BLF941,87000,2.5 years,Red,Red Chittagong,212 kg
+BLF1181,104000,2.5 years,Red,Local,251 kg
+BLF1229,82000,2.5 years,Red,Local,197 kg
+BLFS209,184000,3 years,Non Red,Holstein Friesian Cross,462 kg
+BLF1082,127000,3 years,Red,Local,307 kg
+BLF1075,117000,2.5 years,Red,Local,282 kg
+BLF959,97000,2.5 years,Non Red,Local,239 kg
+BLF1310,101000,2.5 years,Red,Local,243 kg
+BLF1125,98000,3 years,Red,Local,236 kg
+BLF1101,99000,2.5 years,Red,Red Chittagong,236 kg
+BLF1156,114000,2.5 years,Red,Sindhi,276 kg
+BLF1195,102000,4 years,Red,Local,246 kg
+BLF1104,99000,2.5 years,Red,Local,238 kg
+BLF1312,80000,2.5 years,Red,Local,191 kg
+BLF857,168000,3 years,Red,Sahiwal,399 kg
+BLFB2,122000,2.5 years,Red,Local,293 kg
+BLF925,110000,2.5 years,Red,Local,269 kg
+BLFB288,146000,2 years,Non Red,Holstein Friesian Cross,366 kg
+BLF1146,99000,2.5 years,Red,Local,240 kg
+BLF973,95000,3 years,Red,Red Chittagong,227 kg
+BLF1099,88000,2.5 years,Red,Local,212 kg
+BLF1032,93000,2.5 years,Red,Local,230 kg
+BLF907,110000,2.5 years,Red,Local,267 kg
+BLF1037,91000,2.5 years,Non Red,Local,223 kg
+BLF939,109000,2.5 years,Red,Local,263 kg
+BLFB320,121000,3 years,Red,Local,292 kg
+BLF986,91000,2.5 years,Non Red,Local,222 kg
+BLF1094,99000,2.5 years,Red,Sindhi,242 kg
+BLF1020,129000,2.5 years,Red,Local,312 kg
+BLF863,175000,2.5 years,Red,Sahiwal,418 kg
+BLF943,134000,2.5 years,Red,Red Chittagong,320 kg
+BLF1089,91000,2.5 years,Red,Local,219 kg
+BLF1112,124000,2.5 years,Red,Local,300 kg
+BLFH1016,129000,3 years,Red,Local,319 kg
+BLF1220,105000,3 years,Red,Local,255 kg
+BLF978,125000,2.5 years,Non Red,Local,310 kg
+BLFS236,177000,3 years,Non Red,Holstein Friesian Cross,446 kg
+BLF952,95000,2.5 years,Red,Local,230 kg
+BLF1278,86000,2.5 years,Red,Local,208 kg
+BLFB381,279000,3.5 years,Non Red,Holstein Friesian Cross,620 kg
+BLF1232,85000,2.5 years,Non Red,Local,210 kg
+BLFS246,144000,2.5 years,Non Red,Holstein Friesian Cross,363 kg
+BLF1217,104000,3 years,Red,Local,253 kg
+BLF956,95000,2.5 years,Non Red,Local,232 kg
+BLF1045,95000,2.5 years,Non Red,Local,232 kg
+BLF1049,118000,2.5 years,Red,Sindhi,285 kg
+BLF1021,139000,2.5 years,Red,Red Chittagong,332 kg
+BLF1180,116000,3 years,Red,Local,282 kg
+BLF1027,86000,3 years,Red,Local,206 kg
+BLFS214,171000,2.5 years,Non Red,Holstein Friesian Cross,430 kg
+BLF969,109000,2.5 years,Red,Local,263 kg
+BLF932,87000,3 years,Non Red,Local,214 kg
+BLF1210,98000,2.5 years,Non Red,Local,241 kg
+BLFB378,432000,4 years,Non Red,Holstein Friesian Cross,960 kg
+BLF870,125000,2.5 years,Red,Local,288 kg
+BLFB168,130000,3 years,Red,Local,314 kg
+BLF880,120000,2.5 years,Red,Sahiwal,290 kg
+BLF1226,93000,2.5 years,Non Red,Local,230 kg
+BLF1103,96000,3 years,Red,Local,230 kg
+BLF1087,110000,2.5 years,Red,Sahiwal,266 kg
+BLF1274,109000,2.5 years,Red,Red Chittagong,262 kg
+BLF1347,95000,2.5 years,Red,Local,230 kg
+BLF1275,92000,2.5 years,Red,Local,222 kg
+BLF920,119000,3 years,Cross Non Red,Holstein Friesian Cross,294 kg
+BLF1205,85000,2.5 years,Non Red,Local,210 kg
+BLF1121,72000,2.5 years,Red,Local,173 kg
+BLF1176,100000,3 years,Red,Local,246 kg
+BLF887,122000,2.5 years,Red,Local,300 kg
+BLF869,122000,3 years,Red,Local,295 kg
+BLF1320,87000,2.5 years,Non Red,Pabna Breed,214 kg
+BLF1351,79000,3 years,Red,Local,190 kg
+BLF1064,117000,2.5 years,Red,Sahiwal,280 kg
+BLF1291,97000,2.5 years,Red,Local,235 kg
+BLF958,99000,2.5 years,Non Red,Local,243 kg
+BLF1115,100000,2.5 years,Red,Local,242 kg
+BLF1202,93000,3 years,Non Red,Local,230 kg
+BLF1137,117000,3 years,Red,Local,282 kg
+BLF996,98000,2.5 years,Non Red,Local,242 kg
+BLF1355,94000,2.5 years,Red,Local,226 kg
+BLF937,102000,3 years,Red,Local,250 kg
+BLF1140,113000,2.5 years,Red,Local,273 kg
+BLF1321,115000,3 years,Red,Local,278 kg
+BLF1247,85000,2.5 years,Non Red,Local,209 kg
+BLF883,125000,2.5 years,Red,Sahiwal,302 kg
+BLF1030,99000,2.5 years,Non Red,Local,246 kg
+BLF1096,112000,2.5 years,Red,Red Chittagong,266 kg
+BLF1326,108000,2.5 years,Red,Sahiwal,260 kg
+BLF1333,78000,3 years,Non Red,Local,192 kg
+BLF1062,99000,3 years,Red,Local,239 kg
+BLF1256,105000,2.5 years,Red,Sahiwal,255 kg
+BLF852,215000,3 years,Red,Sahiwal,464 kg
+BLF915,122000,2.5 years,Non Red,Local,300 kg
+BLF940,121000,2.5 years,Red,Sahiwal,293 kg
+BLF1215,86000,2.5 years,Non Red,Local,212 kg
+BLF1238,119000,2.5 years,Red,Local,288 kg
+BLF923,119000,2.5 years,Red,Local,284 kg
+BLF1131,94000,2.5 years,Red,Local,226 kg
+BLF1329,94000,2.5 years,Red,Local,225 kg
+BLF955,70000,2.5 years,Non Red,Local,167 kg
+BLF1286,102000,2.5 years,Red,Local,248 kg
+BLF994,92000,2.5 years,Non Red,Local,228 kg
+BLF913,109000,2.5 years,Non Red,Local,268 kg
+BLF1318,90000,2.5 years,Non Red,Local,222 kg
+BLF1152,98000,2.5 years,Red,Local,236 kg
+BLF1258,88000,2.5 years,Red,Sindhi,212 kg
+BLF861,96000,2.5 years,Red,Red Chittagong,230 kg
+BLF945,108000,2.5 years,Red,Local,260 kg
+BLF1184,99000,2.5 years,Red,Local,239 kg
+BLF972,94000,3 years,Non Red,Local,232 kg
+BLF1301,78000,2.5 years,Red,Local,187 kg
+BLF934,94000,2.5 years,Non Red,Local,230 kg
+BLF971,97000,3 years,Non Red,Local,238 kg
+BLF1219,113000,2.5 years,Red,Sahiwal,280 kg
+BLF867,137000,2.5 years,Non Red,Local,314 kg
+BLF1026,91000,3 years,Non Red,Local,223 kg
+BLF1003,119000,3 years,Red,Local,285 kg
+BLF1263,97000,2.5 years,Red,Local,234 kg
+BLF1164,82000,2.5 years,Non Red,Local,202 kg
+BLF921,120000,3 years,Red,Sahiwal,287 kg
+BLF1292,89000,2.5 years,Red,Local,214 kg
+BLF873,129000,2.5 years,Red,Sahiwal,311 kg
+BLF917,108000,3 years,White,Mir Kadim,235 kg
+BLF949,128000,3 years,Red,Local,310 kg
+BLF1199,95000,3 years,Non Red,Local,232 kg
+BLF976,80000,2.5 years,Red,Local,192 kg
+BLF1174,108000,2.5 years,Red,Local,260 kg
+BLF876,93000,2.5 years,Non Red,Mir Kadim,202 kg
+BLF942,89000,2.5 years,Non Red,Sindhi,220 kg
+BLF914,111000,2.5 years,Non Red,Local,272 kg
+BLF1043,103000,4 years,Non Red,Local,252 kg
+BLFS264,153000,2.5 years,Non Red,Holstein Friesian Cross,386 kg
+BLF1311,117000,3 years,Red,Sindhi,282 kg
+BLF927,100000,2.5 years,Red,Red Chittagong,243 kg
+BLF1338,91000,2.5 years,Non Red,Local,224 kg
+BLF1284,91000,2.5 years,Red,Local,220 kg
+BLF954,119000,2.5 years,Red,Sindhi,288 kg
+BLFB331,159000,2.5 years,Cross Red,Holstein Friesian Cross,385 kg
+BLF1044,114000,2.5 years,Non Red,Local,280 kg
+BLF890,126000,2.5 years,Non Red,Local,310 kg
+BLF1098,99000,2.5 years,Red,Sindhi,239 kg
+BLF1269,109000,2.5 years,Red,Local,263 kg
+BLF1359,91000,2.5 years,Red,Local,219 kg
+BLF922,131000,2.5 years,Red,Sahiwal,317 kg
+BLF930,105000,2.5 years,Red,Local,236 kg
+BLF1237,79000,3 years,Red,Local,191 kg
+BLF1117,88000,3 years,Red,Sindhi,212 kg
+BLF1161,127000,3 years,Red,Local,307 kg
+BLFS11,156000,4 years,White,Mir Kadim,339 kg
+BLF1088,88000,2.5 years,Red,Sindhi,211 kg
+BLF1033,101000,2.5 years,Red,Local,248 kg
+BLF1190,98000,2.5 years,Red,Local,237 kg
+BLF1097,117000,2.5 years,Red,Local,284 kg
+BLF1083,110000,2.5 years,Red,Local,266 kg
+BLF1360,66000,2 years,Non Red,Local,161 kg
+BLF1349,98000,2.5 years,Red,Local,238 kg
+BLF902,85000,2.5 years,Red,Local,206 kg
+BLF1350,139000,3 years,Red,Local,336 kg
+BLF1293,110000,2.5 years,Red,Sahiwal,267 kg
+BLF1299,95000,2.5 years,Non Red,Local,234 kg
+BLF1357,90000,2.5 years,Red,Local,216 kg
+BLF868,128000,2.5 years,Red,Sahiwal,294 kg
+BLF936,108000,2.5 years,Red,Sahiwal,262 kg
+BLF1028,86000,3 years,Non Red,Local,206 kg
+BLF1192,103000,2.5 years,Red,Local,250 kg
+BLF1316,87000,2.5 years,Red,Local,210 kg
+BLF928,131000,2.5 years,Non Red,Local,324 kg
+BLF1067,105000,3 years,Red,Local,254 kg
+BLF1120,106000,2.5 years,Red,Local,255 kg
+BLF897,90000,2.5 years,Non Red,Local,220 kg
+BLF1307,80000,2.5 years,Red,Local,191 kg
+BLF1025,114000,2.5 years,Red,Local,274 kg
+BLF1211,91000,3 years,Non Red,Local,225 kg
+BLF1280,79000,2.5 years,Red,Local,191 kg
+BLF1084,108000,2.5 years,Red,Sindhi,264 kg
+BLF998,110000,3 years,Red,Local,266 kg
+BLF1325,102000,2.5 years,Red,Sahiwal,247 kg
+BLF1225,103000,3 years,Red,Sahiwal,250 kg
+BLF875,92000,2.5 years,Red,Local,228 kg
+BLF877,128000,3 years,Red,Sahiwal,316 kg
+BLF1221,85000,2.5 years,Non Red,Local,208 kg
+BLF1352,93000,2.5 years,Red,Local,225 kg
+BLF1077,107000,3 years,Red,Local,258 kg
+BLF926,119000,3 years,Non Red,Local,292 kg
+BLF1036,91000,2.5 years,Non Red,Local,225 kg
+BLF1260,89000,2.5 years,Red,Local,215 kg
+BLF1119,91000,2.5 years,Red,Local,218 kg
+BLF1341,78000,2.5 years,Red,Local,188 kg
+BLF903,117000,2.5 years,Red,Red Chittagong,282 kg
+BLF1178,109000,2.5 years,Red,Sahiwal,263 kg
+BLF1086,119000,2.5 years,Red,Local,289 kg
+BLF888,123000,3 years,Red,Sindhi,300 kg
+BLF1276,104000,2.5 years,Red,Local,252 kg
+BLF854,135000,2.5 years,Non Red,Local,331 kg
+BLF1092,98000,2.5 years,Red,Local,236 kg
+BLF970,99000,2.5 years,Non Red,Mir Kadim,215 kg
+BLF1058,89000,2.5 years,Red,Local,215 kg
+BLF1171,101000,2.5 years,Non Red,Local,250 kg
+BLF1266,91000,2.5 years,Non Red,Local,225 kg
+BLF1223,114000,2.5 years,Red,Sindhi,276 kg
+BLF1208,87000,2.5 years,Red,Local,210 kg
+BLF910,90000,2.5 years,Non Red,Local,223 kg
+BLF1109,91000,2.5 years,Red,Local,220 kg
+BLF1133,97000,2.5 years,Red,Local,235 kg
+BLF1302,80000,2.5 years,Red,Red Chittagong,191 kg
+BLFH775,190000,3 years,Cross Non Red,Holstein Friesian Cross,475 kg
+BLF901,89000,2.5 years,Non Red,Local,220 kg
+BLF966,83000,3 years,Non Red,Local,203 kg
+BLF1111,78000,2.5 years,Red,Local,185 kg
+BLF1252,99000,2.5 years,Red,Local,240 kg
+BLF1107,109000,3 years,Red,Local,262 kg
+BLF1354,98000,2.5 years,Red,Red Chittagong,235 kg
+BLF1095,132000,3 years,Red,Local,318 kg
+BLF1328,105000,2.5 years,Red,Sahiwal,255 kg
+BLF1230,109000,2.5 years,Non Red,Local,270 kg
+BLF1051,96000,2.5 years,Red,Local,230 kg
+BLF1038,88000,2.5 years,Non Red,Local,216 kg
+BLF909,130000,2.5 years,Red,Local,319 kg
+BLF1175,77000,2.5 years,Red,Local,186 kg
+BLFS231,174000,2.5 years,Non Red,Holstein Friesian Cross,438 kg
+BLF1114,99000,2.5 years,Red,Local,240 kg
+BLF912,110000,2.5 years,Non Red,Local,272 kg
+BLFS82,150000,4 years,White,Mir Kadim,326 kg
+BLF1173,86000,3 years,Red,Red Chittagong,205 kg
+BLF1007,100000,2.5 years,Non Red,Local,243 kg
+BLF1317,98000,2.5 years,Red,Local,235 kg
+BLF1358,90000,2.5 years,Red,Local,217 kg
+BLF1207,117000,2.5 years,Red,Sahiwal,282 kg
+BLF1126,105000,2.5 years,Red,Local,252 kg
+BLF1147,86000,2.5 years,Non Red,Local,212 kg
+BLF1212,91000,2.5 years,Non Red,Local,224 kg
+BLF1053,109000,2.5 years,Red,Local,263 kg
+BLF1253,106000,2.5 years,Red,Local,256 kg
+BLF1257,99000,2.5 years,Red,Local,237 kg
+BLF990,91000,2.5 years,Red,Local,218 kg
+BLF856,131000,2.5 years,Red,Red Chittagong,312 kg
+BLF1323,130000,2.5 years,Red,Red Chittagong,312 kg
+BLFB380,324000,3.5 years,Non Red,Holstein Friesian Cross,720 kg
+BLF889,173000,3 years,Red,Sahiwal,418 kg
+BLF1222,99000,2.5 years,Red,Sahiwal,240 kg
+BLF1172,123000,3 years,Red,Red Chittagong,292 kg
+BLF1085,90000,2.5 years,Red,Local,216 kg
+BLF1244,103000,2.5 years,Non Red,Local,254 kg
+BLF1159,109000,3 years,Red,Local,262 kg
+BLF892,195000,3 years,Red,Sahiwal,450 kg
+BLF1267,90000,2.5 years,Red,Local,218 kg
+BLF985,130000,2.5 years,Red,Sahiwal,310 kg
+BLF957,80000,2.5 years,Non Red,Local,195 kg
+BLF1024,97000,3 years,Red,Local,233 kg
+BLF1123,109000,2.5 years,Red,Red Chittagong,260 kg
+BLF1201,100000,2.5 years,Non Red,Local,248 kg
+BLF1239,110000,3 years,Red,Local,266 kg
+BLF864,108000,2 years,Non Red,Mir Kadim,234 kg
+BLF1046,101000,2.5 years,Red,Sindhi,244 kg
+BLF1322,118000,2.5 years,Red,Sindhi,285 kg
+BLF988,118000,2.5 years,Non Red,Local,290 kg
+BLF1143,111000,2.5 years,Red,Sahiwal,269 kg
+BLF900,81000,2.5 years,Non Red,Local,200 kg
+BLF929,105000,2.5 years,Red,Sahiwal,255 kg
+BLF1240,107000,2.5 years,Non Red,Local,265 kg
+BLF1122,113000,3 years,Red,Local,272 kg
+BLF874,117000,2.5 years,Red,Red Chittagong,280 kg
+BLF1001,162000,2.5 years,Red,Sindhi,385 kg
+BLF980,86000,2.5 years,Red,Sindhi,212 kg
+BLF1129,140000,3 years,Cross Red,Holstein Friesian Cross,354 kg
+BLF896,128000,4 years,Red,Sahiwal,313 kg
+BLFS204,153000,3 years,Non Red,Holstein Friesian Cross,385 kg
+BLF1138,115000,3 years,Red,Sindhi,278 kg
+BLF1218,89000,2.5 years,Red,Local,216 kg
+BLF1074,95000,3 years,Red,Local,230 kg
+BLF881,109000,2.5 years,Non Red,Local,270 kg
+BLF977,130000,2.5 years,Non Red,Red Chittagong,312 kg
+BLF1151,120000,2.5 years,Non Red,Local,297 kg
+BLF893,101000,2.5 years,Red,Red Chittagong,241 kg
+BLF859,130000,2.5 years,Red,Local,322 kg
+BLF1270,117000,3 years,Red,Sahiwal,283 kg
+BLF1023,125000,2.5 years,Red,Local,300 kg
+BLF911,90000,2.5 years,Non Red,Local,222 kg
+BLF1334,79000,2.5 years,Red,Local,189 kg
+BLFB377,125000,3 years,Red,Local,305 kg
+BLF974,94000,2.5 years,Non Red,Local,230 kg
+BLF1319,91000,2.5 years,Non Red,Local,224 kg
+BLF1273,97000,2.5 years,Red,Local,234 kg
+BLF884,156000,2.5 years,Red,Local,380 kg
+BLF931,108000,3 years,Red,Red Chittagong,258 kg
+BLF1246,82000,2.5 years,Red,Local,195 kg
+BLF967,87000,3 years,Non Red,Local,215 kg
+BLF951,108000,2.5 years,Red,Local,259 kg
+BLF1069,105000,2.5 years,Red,Sindhi,253 kg
+BLF1216,85000,3 years,Red,Local,205 kg
+BLF1004,110000,2.5 years,Red,Local,263 kg
+BLF1009,89000,2.5 years,Non Red,Local,216 kg
+BLF1072,107000,3 years,Red,Sahiwal,258 kg
+BLF1282,89000,3 years,Red,Local,216 kg
+BLF916,106000,2.5 years,Non Red,Local,262 kg
+BLF899,151000,2.5 years,Red,Local,373 kg
+BLF879,130000,2.5 years,Red,Sahiwal,321 kg
+BLFS239,167000,3 years,Non Red,Holstein Friesian Cross,420 kg
+BLF1186,116000,2.5 years,Red,Local,280 kg
+BLF1056,102000,2.5 years,Red,Red Chittagong,244 kg
+BLF1248,87000,2.5 years,Red,Local,211 kg
+BLF1296,95000,3 years,Red,Local,230 kg
+BLF1189,107000,2.5 years,Red,Sahiwal,257 kg
+BLF1339,134000,2.5 years,Red,Local,325 kg
+BLF1040,88000,2.5 years,Non Red,Local,215 kg
+BLF904,137000,2.5 years,Non Red,Local,337 kg
+BLF989,93000,2.5 years,Non Red,Local,229 kg
+BLF1224,83000,2.5 years,Red,Sahiwal,201 kg
+BLF964,123000,2.5 years,Red,Local,297 kg
+BLF1335,76000,2.5 years,Red,Local,182 kg
+BLF1353,75000,2.5 years,Red,Local,181 kg
+BLF1059,135000,2.5 years,Red,Local,327 kg
+BLF1198,90000,2.5 years,Non Red,Local,223 kg
+BLF1206,91000,2.5 years,Red,Local,224 kg
+BLFB376,124000,2.5 years,Red,Local,300 kg
+BLF947,87000,3 years,Non Red,Local,215 kg
+BLF1034,101000,3 years,Red,Local,242 kg
+BLF1236,102000,2.5 years,Red,Local,247 kg
+BLF1308,81000,2.5 years,Red,Red Chittagong,192 kg
+BLF1214,97000,2.5 years,Red,Local,240 kg
+BLF965,100000,3 years,Non Red,Local,247 kg
+BLF1031,93000,2.5 years,Non Red,Local,230 kg
+BLF1188,110000,2.5 years,Red,Sindhi,266 kg
+BLF938,117000,3 years,Non Red,Local,287 kg
+BLF1228,109000,3 years,Non Red,Local,270 kg
+BLF1160,109000,2.5 years,Non Red,Local,270 kg
+BLF1272,91000,2.5 years,Red,Local,220 kg
+BLF1018,114000,3 years,Red,Local,272 kg
+BLF1268,92000,2.5 years,Non Red,Local,225 kg
+BLF1204,83000,3 years,Non Red,Local,203 kg
+BLF961,130000,3 years,Non Red,Local,322 kg
+BLF1132,106000,2.5 years,Red,Local,256 kg
+BLF1135,101000,3 years,Red,Local,242 kg
+BLF1313,114000,2.5 years,Red,Local,274 kg
+BLF1254,118000,3 years,Red,Sahiwal,287 kg
+BLF1134,101000,3 years,Red,Local,243 kg
+BLF1022,130000,2.5 years,Red,Sahiwal,314 kg
+BLF885,95000,2.5 years,Red,Local,232 kg
+BLF963,117000,2.5 years,Non Red,Local,281 kg
+BLFS265,179000,3 years,Non Red,Holstein Friesian Cross,450 kg
+BLF944,105000,3 years,Red,Sindhi,255 kg
+BLF1054,104000,2.5 years,Red,Local,250 kg
+BLFB367,154000,2.5 years,Red,Sahiwal,373 kg
+BLF1105,113000,2.5 years,Red,Local,271 kg
+BLF1157,108000,2.5 years,Red,Local,260 kg
+BLF1012,85000,2.5 years,Red,Local,204 kg
+BLF1016,102000,2.5 years,Non Red,Pabna Breed,250 kg
+BLF1124,90000,2.5 years,Red,Local,216 kg
+BLF962,97000,2.5 years,Red,Local,232 kg
+BLF1080,119000,3 years,Red,Local,288 kg
+BLF1142,126000,2.5 years,Red,Sahiwal,304 kg
+BLF1014,93000,2.5 years,Non Red,Local,230 kg
+BLF982,112000,2.5 years,Non Red,Local,275 kg
+BLF862,92000,2 years,Non Red,Mir Kadim,200 kg
+BLF1340,95000,3 years,Non Red,Pabna Breed,233 kg
+BLF1356,89000,2.5 years,Red,Local,214 kg
+BLF933,83000,2.5 years,Non Red,Pabna Breed,201 kg
+BLF1245,103000,2.5 years,Red,Local,250 kg
+BLF1264,85000,2.5 years,Non Red,Local,210 kg
+BLFB272,120000,2.5 years,Red,Red Chittagong,289 kg
+BLF882,133000,2.5 years,Red,Sahiwal,325 kg
+BLF924,120000,2.5 years,Red,Red Chittagong,287 kg
+BLF1079,72000,2.5 years,Red,Local,170 kg
+BLF895,127000,2.5 years,Non Red,Local,313 kg
+BLF1013,92000,2.5 years,Red,Local,222 kg
+BLF898,94000,2.5 years,Red,Red Chittagong,224 kg
+BLF1306,98000,2.5 years,Red,Local,238 kg
+BLF1063,108000,3 years,Red,Local,260 kg
+BLF908,106000,2.5 years,Non Red,Pabna Breed,260 kg
+BLF906,111000,3 years,Red,Sahiwal,268 kg
+BLF991,99000,2.5 years,Non Red,Local,243 kg
+BLF905,146000,2.5 years,Red,Local,358 kg
+BLF860,104000,3 years,Red,Sahiwal,256 kg
+BLF1153,117000,2.5 years,Red,Sahiwal,282 kg
+BLF1017,110000,2.5 years,Red,Local,264 kg
+BLF995,78000,4 years,Non Red,Local,191 kg
+BLF918,115000,2.5 years,Red,Sahiwal,276 kg
+BLF878,133000,2.5 years,Red,Local,322 kg
+BLF1078,114000,3 years,Red,Sindhi,275 kg
+BLF1076,83000,2.5 years,Red,Local,200 kg
+BLF1271,96000,2.5 years,Red,Sindhi,232 kg
+BLFS229,172000,3 years,Non Red,Holstein Friesian Cross,433 kg
+BLF946,145000,2.5 years,Red,Local,352 kg
+BLF1327,95000,2.5 years,Red,Sindhi,230 kg
+BLF1314,99000,2.5 years,Red,Local,239 kg
+BLF1029,87000,2.5 years,Non Red,Local,216 kg
+BLF1106,102000,2.5 years,Red,Red Chittagong,244 kg
+BLFS219,205000,2.5 years,Non Red,Holstein Friesian Cross,516 kg
+BLF1185,105000,2.5 years,Red,Sindhi,260 kg
+BLF1050,102000,2.5 years,Non Red,Local,250 kg
+BLF1102,92000,2.5 years,Red,Local,223 kg
+BLF997,108000,2.5 years,Red,Local,260 kg
+BLF1158,68000,2.5 years,Red,Local,161 kg
+BLF1337,78000,3 years,Red,Local,187 kg
+BLF987,109000,2.5 years,Non Red,Local,268 kg
+BLF1065,126000,2.5 years,Red,Local,305 kg
+BLF1060,97000,2.5 years,Red,Local,235 kg
+BLF1297,98000,3 years,Red,Local,238 kg
+BLF1295,80000,3 years,Red,Local,191 kg
+BLF1165,107000,2.5 years,Non Red,Local,265 kg
+BLFS1,152000,2 years,Non Red,Holstein Friesian Cross,381 kg
+BLF981,92000,2.5 years,Non Red,Local,226 kg
+BLF1182,104000,2.5 years,Non Red,Local,257 kg
+BLF1090,110000,2.5 years,Red,Local,264 kg
+BLF1008,112000,2.5 years,Non Red,Holstein Friesian Cross,280 kg
+BLF871,127000,2.5 years,Red,Sahiwal,297 kg
+BLF1055,105000,2.5 years,Red,Sahiwal,255 kg
+BLF1227,109000,2.5 years,Red,Local,264 kg
+BLF1070,107000,2.5 years,Red,Local,258 kg
+BLF999,122000,2.5 years,Red,Local,294 kg
+BLF1251,109000,2.5 years,Red,Local,263 kg
+BLF1154,115000,2.5 years,Red,Sindhi,277 kg
+BLF1170,95000,3 years,Non Red,Local,236 kg
+BLF1068,124000,2.5 years,Red,Local,300 kg
+BLF1108,100000,3 years,Red,Local,241 kg
+BLF953,149000,3 years,Non Red,Local,368 kg
+BLF1163,80000,3 years,Non Red,Local,195 kg
+BLF1073,87000,3 years,Red,Local,210 kg
+BLF1162,83000,2.5 years,Red,Local,200 kg
+BLF1100,102000,3 years,Red,Local,244 kg
+BLF1233,99000,2.5 years,Non Red,Local,245 kg
+BLF1039,79000,3 years,Red,Local,190 kg
+BLFB379,342000,4 years,Non Red,Holstein Friesian Cross,760 kg
+BLF1155,118000,3 years,Non Red,Local,292 kg
+BLF1298,84000,3 years,Red,Local,200 kg
+BLF1191,119000,2.5 years,Red,Sahiwal,288 kg
+BLF1061,108000,2.5 years,Red,Local,260 kg
+BLF1071,106000,2.5 years,Red,Local,256 kg
+BLF858,128000,3 years,Red,Local,307 kg
+BLF1235,97000,3 years,Non Red,Local,240 kg
+BLF894,115000,2.5 years,Non Red,Local,281 kg
+BLF1166,104000,2.5 years,Non Red,Local,256 kg
+BLF1052,89000,3 years,Red,Sindhi,215 kg
+BLFS206,172000,3 years,Non Red,Holstein Friesian Cross,432 kg
+BLF1047,105000,2.5 years,Red,Sindhi,256 kg
+BLF992,110000,3 years,Non Red,Local,270 kg
+BLF1005,86000,2.5 years,Non Red,Local,205 kg
+BLF865,173000,2.5 years,Red,Sahiwal,415 kg
+BLF1113,145000,2.5 years,Red,Sahiwal,358 kg
+BLFB289,125000,3 years,Red,Local,300 kg
+BLF1169,97000,3 years,Red,Sahiwal,235 kg
+BLF1116,112000,2.5 years,Red,Sindhi,272 kg
+BLF1167,103000,2.5 years,Red,Sahiwal,250 kg
+BLF1168,113000,2.5 years,Red,Local,273 kg
+BLF1057,108000,2.5 years,Red,Local,262 kg
+BLF1110,107000,2.5 years,Red,Local,260 kg
+BLF1130,117000,2.5 years,Red,Local,281 kg
