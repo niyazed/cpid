@@ -19,8 +19,8 @@ All price of this cows enlisted according to 2019 Qurban.
 |----------------|-------------------------------|------------------------|--------------|
 |No. of Samples  |`1400`                         |                        |     `466`    |
 |Type            |`RGB`                          |       37k - 800k       |     `RGB`    |
-|Size            |`W - 531px` `H - 354px`        |                        |              |
-|Column names    |            |                        | `id, price, age, color, weight` |
+|Size            |`W - 531px` `H - 354px`        |                        |`W - 531px` `H - 354px`|
+|Column Names    |            |                        | `id, price, age, color, breed, weight` |
 > NOTE - A few images are in different size so better if you resize all the images first.
 
 
