@@ -12,13 +12,15 @@
 ## Data Description
 
 All price of this cows enlisted according to 2019 Qurban.
-- Download dataset - [Google Drive Link](https://drive.google.com/file/d/1kcwx93AlvoMcCmBpnPptIETRYo_qg8cI/view?usp=sharing)
+- Download price wise image Dataset - [Link](https://drive.google.com/file/d/1kcwx93AlvoMcCmBpnPptIETRYo_qg8cI/view?usp=sharing)
+- Download id wise image dataset - [Link](https://drive.google.com/file/d/1Arr2nlmZCt3D_ZVIPhAgX2K3Gzlv1xyU/view?usp=sharing)
 
-|                |Images                         | Price Range (BDT)           |
-|----------------|-------------------------------|-----------------------------|
-|No. of Samples  |`1400`                         |                             |
-|Type            |`RGB`                          |       37k - 800k            |
-|Size            |`W - 531px` `H - 354px`        |                             |
+|                |Images                         | Price Range (BDT)      |    CSV_Data  |
+|----------------|-------------------------------|------------------------|--------------|
+|No. of Samples  |`1400`                         |                        |     `466`    |
+|Type            |`RGB`                          |       37k - 800k       |     `RGB`    |
+|Size            |`W - 531px` `H - 354px`        |                        |              |
+|Column names    |            |                        | `id, price, age, color, weight` |
 > NOTE - A few images are in different size so better if you resize all the images first.
 
 
@@ -41,3 +43,4 @@ All price of this cows enlisted according to 2019 Qurban.
 <p align="center">
     Feel free to contribute :hearts:   -  Niyaz B. Hashem 
 </p>
+ 
